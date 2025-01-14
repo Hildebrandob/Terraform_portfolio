@@ -5,6 +5,22 @@
 /.pnp
 .pnp.js
 
+# Ignore specific files
+xoneidneitfier
+secret_config.json
+Zone.Identifier
+
+# Ignore files with specific patterns
+xoneidneitfier*
+*.log
+temp_*
+*.Zone.Identifier
+
+# Ignore folders
+/temp_folder
+/build
+
+
 # testing
 /coverage
 
