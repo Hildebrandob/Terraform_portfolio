@@ -1,2 +1,11 @@
- in this short video I will explain the pruposed of this terraform project https://www.loom.com/share/5fb553e70e21474bbf1cf348c0becf04?sid=edffe97d-2303-4ed8-988d-5b613c0b3468
-structure can be found in terraform-js folder
+In this project we will need to deploy the portfolio website for James smith the requirements for the infrstructure are:
+
+. Highly Available: The website should be accessible to users worldwide with minimal downtime.
+
+. Scalable: As his portfolio gains traction, the hosting solution should handle increased traffic without performance degradation.
+
+. Cost-Effective: Hosting costs should be optimized, avoiding unnecessary expenses.
+
+. Fast Loading: The website should load quickly for visitors, providing a seamless user experience
+
+Create Github and next js.po
